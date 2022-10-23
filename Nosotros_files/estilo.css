@@ -243,6 +243,7 @@ html {
 
 .nosotros-containerB {
   background: url("/img/fondox-p.jpg");
+  background-repeat: no-repeat;
   -o-object-fit: cover;
      object-fit: cover;
 }
